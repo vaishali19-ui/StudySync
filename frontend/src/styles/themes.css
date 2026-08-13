@@ -1,0 +1,24 @@
+:root[data-theme="pinkBloom"] {
+--color-primary: #D6336C;
+--color-accent: #FFB6D9;
+--color-bg: #FFF5F9;
+--color-text: #2E2233;
+}
+:root[data-theme="lavenderDream"] {
+--color-primary: #8B5CF6;
+--color-accent: #D9C7FF;
+--color-bg: #F8F5FF;
+--color-text: #2E2233;
+}
+:root[data-theme="mintWhisper"] {
+--color-primary: #2F9E7A;
+--color-accent: #B8F1DD;
+--color-bg: #F2FBF7;
+--color-text: #2E2233;
+}
+:root[data-theme="midnightBloom"] {
+--color-primary: #F783AC;
+--color-accent: #6B2E4C;
+--color-bg: #1E1526;
+--color-text: #FDEBF3;
+}
